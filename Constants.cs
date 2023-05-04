@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UUID
+namespace UUID.net
 {
     /// <summary>
     /// Random number generate modes supported

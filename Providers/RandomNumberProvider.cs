@@ -1,7 +1,7 @@
 ﻿using Org.BouncyCastle.Security;
 using System;
 
-namespace UUID.Providers
+namespace UUID.net.Providers
 {
     /// <summary>
     /// Helper class to generate cryptographically strong numbers on .NET portable

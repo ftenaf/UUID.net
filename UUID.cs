@@ -1,10 +1,10 @@
 ﻿
-using UUID.Providers;
 using System;
 using System.Linq;
 using System.Text;
+using UUID.net.Providers;
 
-namespace UUID
+namespace UUID.net
 {
     public enum GuidVersion { Unknown = 0, Time = 1, DCE = 2, MD5 = 3, Random = 4, SHA1 = 5 }
     public enum GuidVariant { Unknown = 0, NCSReserved = 1, RFC4122 = 2, MicrosoftReserved = 3, FutureReserved = 4 }

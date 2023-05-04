@@ -1,7 +1,7 @@
 ﻿using Org.BouncyCastle.Crypto;
 using Org.BouncyCastle.Crypto.Digests;
 
-namespace UUID.Providers
+namespace UUID.net.Providers
 {
     /// <summary>
     /// Helper class used to generate the MD5 and SHA1 hashs used in V3 and V5 GUIDs
